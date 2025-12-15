@@ -1,7 +1,7 @@
 # Global Human Development Index (HDI) Dashboard (1990-2022)
 
 ### Dashboard Preview
-![Dashboard Preview](Dashboard-Preview.pdf)
+![Dashboard Preview](Dashboard-Preview.jpg)
 
 ## Project Description
 This project analyzes the Human Development Index (HDI) data from 1990 to 2022 to understand global development trends. The dashboard provides insights into Life Expectancy, Gross National Income (GNI), and Education levels across different countries.
